@@ -14,3 +14,7 @@ Based in Los Angeles, CA · Open to junior, internship and contract roles
 - **[Don't Eat Food Off the Ground](https://www.youtube.com/watch?v=QgJd4T4P5yo&t)** (Unreal Engine 5.4, FMOD): solo indie game in development since late 2024. I handle everything except the purchased art: code, music and sound.
 - **[Loop-Maker](https://github.com/lingmuzic/Loop-Maker)**: batch tool that turns ambience recordings into seamless game-ready loops (Python, built with Claude Code).
 - **[DaVinciCode](https://github.com/lingmuzic/DaVinciCode)**: console number-guessing game in C++, my first C++ practice project.
+
+## Awards
+- Best Sound Design, Blueprint Game Jam (2026)
+- Honorable Mention, Sound Design, GANG Student Game Music and Sound Design Competition (2025)
