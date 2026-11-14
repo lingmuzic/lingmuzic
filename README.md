@@ -11,6 +11,6 @@ Based in Los Angeles, CA · Open to junior, internship and contract roles
 ## Selected projects
 - **Lyra Audio Systems** (Unreal Engine 5.8, Wwise): an audio extension of Epic's Lyra Starter Game with 7 systems (weapon heat, indoor/outdoor, aim-down-sights, low-health heartbeat and more). Private repo; see the demo reel.
 - **What Lies Above** (Unreal Engine 5.4, Wwise 2024.1): team game jam project. My role: sound design and Wwise implementation.
-- **Don't Eat Food Off the Ground** (Unreal Engine 5.4, FMOD): solo indie game in development since late 2024. I handle everything except the purchased art: code, music and sound.
+- **[Don't Eat Food Off the Ground](https://www.youtube.com/watch?v=QgJd4T4P5yo&t)** (Unreal Engine 5.4, FMOD): solo indie game in development since late 2024. I handle everything except the purchased art: code, music and sound.
 - **[Loop-Maker](https://github.com/lingmuzic/Loop-Maker)**: batch tool that turns ambience recordings into seamless game-ready loops (Python, built with Claude Code).
 - **[DaVinciCode](https://github.com/lingmuzic/DaVinciCode)**: console number-guessing game in C++, my first C++ practice project.
