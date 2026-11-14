@@ -1,6 +1,6 @@
 # Hi, I'm Ling Chen 👋
 
-Game audio designer and composer, focused on technical sound design and audio implementation.
+Game technical sound designer, focused on audio implementation and building audio systems.
 Based in Los Angeles, CA · Open to junior, internship and contract roles
 
 ## What I do
