@@ -1,7 +1,7 @@
 # Hi, I'm Ling Chen 👾
 
 Game technical sound designer, focused on audio implementation and building audio systems.
-Based in Los Angeles, CA · Open to junior, internship and contract roles
+Based in Los Angeles, CA · Open to junior, internship and contract roles.
 
 ## What I do
 - **Technical sound design**: Wwise, FMOD, Unreal Engine (Blueprints, MetaSounds), interactive audio systems driven by gameplay parameters
