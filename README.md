@@ -1,4 +1,4 @@
-# Hi, I'm Ling Chen 👾
+# Hi, I'm Ling 👾
 
 Game technical sound designer, focused on audio implementation and building audio systems.
 Based in Los Angeles, CA · Open to junior, internship and contract roles.
