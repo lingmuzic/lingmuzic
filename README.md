@@ -5,7 +5,6 @@ Based in Los Angeles, CA · Open to junior, internship and contract roles.
 
 ## What I do
 - **Technical sound design**: Wwise, FMOD, Unreal Engine (Blueprints, MetaSounds), interactive audio systems driven by gameplay parameters
-- **Music & composition**: Cubase / Action / Orchestral
 - **Audio programming**: learning C++ for audio components in Unreal; Python for audio tools
 
 ## Selected projects
